@@ -1,9 +1,18 @@
 ---
-title: "Introdução ao Solidity - Video Aula 1"
-date: 2020-01-23T15:06:31-03:00
-draft: true
+title: "Introdução ao Ethereum - Parte 1"
+date: 2020-02-03T15:06:31-03:00
+draft: false
+description: "Primeira parte da série de videos que introduz os conceitos fundamentais da rede Ethereum"
 ---
 
-Introdução à linguagem de programação Solidity.
+Introdução ao Ethereum.
 
-A série de video aulas tem como objetivo apresentar a linguagem orientada objetos Solidity. Utilizada para gerar bytecode para máquina virtual EVM Ethereum Virtual Machine.
+A rede Ethereum fornece um computador mundial descentralizado que executa códigos na EVM, chamados Contratos Inteligentes.
+
+Apresentando diversos paradigmas a programação, esse material tem o objetivo de facilitar o entendimento da rede Ethereum.
+
+A série de video aulas tem como objetivo apresentar suas funcionalidades, vantagens e desvantagens.
+
+A série tem previsão para 7 partes.
+
+{{< youtube AsLTlzihFU0 >}}

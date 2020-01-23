@@ -2,62 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introdução ao solidity</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/introducao-solidity/</link>
     <description>Recent content on Introdução ao solidity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jan 2020 15:06:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 15:06:31 -0300</lastBuildDate>
     
-	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/introducao-solidity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Introdução ao Solidity - Video Aula 1</title>
-      <link>//localhost:1313/post/video-aula-1/</link>
-      <pubDate>Thu, 23 Jan 2020 15:06:31 -0300</pubDate>
+      <title>Introdução ao Ethereum - Parte 1</title>
+      <link>http://localhost:1313/introducao-solidity/post/video-aula-1/</link>
+      <pubDate>Mon, 03 Feb 2020 15:06:31 -0300</pubDate>
       
-      <guid>//localhost:1313/post/video-aula-1/</guid>
-      <description>Introdução à linguagem de programação Solidity.
-A série de video aulas tem como objetivo apresentar a linguagem orientada objetos Solidity. Utilizada para gerar bytecode para máquina virtual EVM Ethereum Virtual Machine.</description>
+      <guid>http://localhost:1313/introducao-solidity/post/video-aula-1/</guid>
+      <description>Introdução ao Ethereum.
+A rede Ethereum fornece um computador mundial descentralizado que executa códigos na EVM, chamados Contratos Inteligentes.
+Apresentando diversos paradigmas a programação, esse material tem o objetivo de facilitar o entendimento da rede Ethereum.
+A série de video aulas tem como objetivo apresentar suas funcionalidades, vantagens e desvantagens.
+A série tem previsão para 7 partes.
+  </description>
+    </item>
+    
+    <item>
+      <title>Dem RemarkJS Slideshow</title>
+      <link>http://localhost:1313/introducao-solidity/slides/demo-slideshow/</link>
+      <pubDate>Tue, 28 Jan 2020 16:51:19 -0300</pubDate>
+      
+      <guid>http://localhost:1313/introducao-solidity/slides/demo-slideshow/</guid>
+      <description>class: center, middle
+Demo Remark Slideshow Jony Ives • WWDC  class: center, middle
+Video Aula 1  Agenda  Introduction Deep-dive &amp;hellip;   </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/introducao-solidity/about/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about/</guid>
-      <description>Hi there My name is Radek and I&#39;m the author of this theme. I made it to help you present your ideas easier.
+      <guid>http://localhost:1313/introducao-solidity/about/</guid>
+      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
 We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
 This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
     </item>
     
     <item>
       <title>Showcase</title>
-      <link>//localhost:1313/showcase/</link>
+      <link>http://localhost:1313/introducao-solidity/showcase/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/showcase/</guid>
+      <guid>http://localhost:1313/introducao-solidity/showcase/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
     </item>
     
     <item>
-      <title>Hello Friend</title>
-      <link>//localhost:1313/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/post/hello/</guid>
-      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&#39;s lame. Maybe I should give you a name&amp;hellip; But that&#39;s a slippery slope. You&#39;re only in my head. We have to remember that&amp;hellip; Shit. It&#39;s actually happened. I&#39;m talking to an imaginary person.
-— Mr. Robot S01E01
- </description>
-    </item>
-    
-    <item>
       <title>Archive</title>
-      <link>//localhost:1313/archive/</link>
+      <link>http://localhost:1313/introducao-solidity/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/archive/</guid>
+      <guid>http://localhost:1313/introducao-solidity/archive/</guid>
       <description></description>
     </item>
     

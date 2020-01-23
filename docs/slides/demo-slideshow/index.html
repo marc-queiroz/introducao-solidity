@@ -2,14 +2,16 @@
 <html lang="en">
   <head>
     
-      <title>Archive :: Introdução ao solidity — Linguagem de programação do Ethereum</title>
+      <title>Dem RemarkJS Slideshow :: Introdução ao solidity — Linguagem de programação do Ethereum</title>
     
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="description" content=""/>
+<meta name="description" content="class: center, middle
+Demo Remark Slideshow Jony Ives • WWDC  class: center, middle
+Video Aula 1  Agenda  Introduction Deep-dive &amp;hellip;   "/>
 <meta name="keywords" content=""/>
 <meta name="robots" content="noodp"/>
-<link rel="canonical" href="http://localhost:1313/introducao-solidity/archive/" />
+<link rel="canonical" href="http://localhost:1313/introducao-solidity/slides/demo-slideshow/" />
 
 
 
@@ -26,16 +28,21 @@
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Archive"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="Dem RemarkJS Slideshow"/>
+<meta name="twitter:description" content="class: center, middle
+Demo Remark Slideshow Jony Ives • WWDC  class: center, middle
+Video Aula 1  Agenda  Introduction Deep-dive &hellip;   "/>
 
 
 
-<meta property="og:title" content="Archive" />
-<meta property="og:description" content="" />
+<meta property="og:title" content="Dem RemarkJS Slideshow" />
+<meta property="og:description" content="class: center, middle
+Demo Remark Slideshow Jony Ives • WWDC  class: center, middle
+Video Aula 1  Agenda  Introduction Deep-dive &hellip;   " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/introducao-solidity/archive/" />
-<meta property="og:site_name" content="Introdução ao solidity" />
+<meta property="og:url" content="http://localhost:1313/introducao-solidity/slides/demo-slideshow/" />
+<meta property="article:published_time" content="2020-01-28T16:51:19-03:00" />
+<meta property="article:modified_time" content="2020-01-28T16:51:19-03:00" /><meta property="og:site_name" content="Introdução ao solidity" />
 
 
 
@@ -111,97 +118,73 @@
 
       <div class="content">
         
+    <textarea id="source">
+class: center, middle
+# Demo Remark Slideshow 
+## Jony Ives &amp;bullet; WWDC
 
+---
+class: center, middle
 
+# Video Aula 1
 
+---
 
-<div class="archive">
-  <h1>Archive</h1>
-  
-  
-  <div class="archive__group-year">
-    <h2 class="archive__group-year-header">2020</h2>
-    
-    <div class="archive__group-month">
-      <h3 class="archive__group-month-header">February</h3>
-      <div class="archive__group-posts">
-        
-        
-        <div class="archive__post">
-          <h3 class="archive__post-title"><a
-              href="http://localhost:1313/introducao-solidity/post/video-aula-1/">Introdução ao Ethereum - Parte 1</a>
-          </h3>
-          <div class="archive__post-meta">
-            <span class="archive__post-date">
-              2020-02-03
-            </span>
-            
-            
-          </div>
-        </div>
-        
-        
-      </div>
-    </div>
-    
-    <div class="archive__group-month">
-      <h3 class="archive__group-month-header">January</h3>
-      <div class="archive__group-posts">
-        
-      </div>
-    </div>
-    
-  </div>
-  
-  
-  
-  <div class="archive__group-year">
-    <h2 class="archive__group-year-header">2019</h2>
-    
-    <div class="archive__group-month">
-      <h3 class="archive__group-month-header">January</h3>
-      <div class="archive__group-posts">
-        
-      </div>
-    </div>
-    
-  </div>
-  
-  
-  
-  
-</div>
+# Agenda
+
+1. Introduction
+2. Deep-dive
+3. ...
+
+---
+</textarea>
+    <script type="text/javascript" src="http://localhost:1313/introducao-solidity/js/qrcode.js"></script>
+    <script src="http://localhost:1313/introducao-solidity/js/remark.js"></script>
+    <script>
+      var slideshow = remark.create({
+         
+         navigation: {
+            scroll: false
+         },
+         countIncrementalSlides: false,
+         slideNumberFormat: '%current%',
+			highlightLanguage: "xaprb",
+			placeholder: "dummy value to end the list without a comma"
+      });
+
+		
+		
+		$(".remark-slide-content.fit-h1 h1").each(function(i, e) {
+			var $e = $(e);
+			var $p = $e.closest('div.remark-slide-container');
+			var needsToggle = !$p.hasClass('remark-visible');
+			if ( needsToggle ) $p.toggleClass('remark-visible');
+			while (e.scrollHeight > e.clientHeight + 1 && $e.css('font-size') != '1px') {
+				$e.css('font-size', (parseInt($e.css('font-size')) - 1) + "px");
+				
+				
+			}
+			if ( needsToggle ) $p.toggleClass('remark-visible');
+		});
+
+		$( function() {
+			if ( $( "body.feature-qrcode:not(.feature-noqrcode)" ).length ) {
+				if ( $( ".qrcode" ).length ) {
+					new QRCode($(".qrcode")[0], {
+						"useSVG": true,
+						"text": window.location.href.replace(/#\d*$/, "")
+					});
+				}
+			}
+		});
+
+    </script>
 
       </div>
 
       
-        <footer class="footer">
-  <div class="footer__inner">
-    
-      <a href="/" class="logo" style="text-decoration: none;">
   
-    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" viewBox="0 0 44 44">
-  <path fill="none" d="M15 8l14.729 14.382L15 35.367"/>
-</svg>
-</span>
-    <span class="logo__text">hello friend</span>
-    <span class="logo__cursor"></span>
-  
-</a>
 
-      <div class="copyright">
-        <span>© 2020 Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a></span>
-        <span>Theme created by <a href="https://twitter.com/panr" target="_blank" rel="noopener">panr</a></span>
-      </div>
-    
-  </div>
-</footer>
-
-<script src="http://localhost:1313/introducao-solidity/assets/main.js"></script>
-<script src="http://localhost:1313/introducao-solidity/assets/prism.js"></script>
-
-
-      
     </div>
 
     
