@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/post/video-aula-1/</loc>
+    <lastmod>2020-02-03T15:06:31-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/</loc>
+    <lastmod>2020-02-03T15:06:31-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/post/</loc>
+    <lastmod>2020-02-03T15:06:31-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/slides/demo-slideshow/</loc>
+    <lastmod>2020-01-28T16:51:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/slides/</loc>
+    <lastmod>2020-01-28T16:51:19-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/about/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/showcase/</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marc-queiroz.github.io/introducao-solidity/tags/</loc>
+  </url>
+  
+</urlset>
