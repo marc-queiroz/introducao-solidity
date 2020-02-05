@@ -15,4 +15,10 @@ A série de video aulas tem como objetivo apresentar suas funcionalidades, vanta
 
 A série tem previsão para 7 partes.
 
+## Parte 1:
+
 {{< youtube AsLTlzihFU0 >}}
+
+## Parte 1, continuação:
+
+{{< youtube AEbu98EVqfQ >}}
